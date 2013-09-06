@@ -1,0 +1,24 @@
+<HTML>
+
+<script>
+// state 1 = contents showing in left frame
+// state 2 = index showing in left frame
+// state 3 = no left frame (this file not used for state 3)
+
+if (parent.state == 1) {
+   document.write("<FRAMESET COLS='30%,70%'>" +
+      "<FRAME SRC='contents.htm' NAME='tocframe'>" +
+      "<FRAME SRC='", (location.search ? location.search.substring(1) + ".htm" : "intro.htm"), "' NAME='display'>" +
+   "</FRAMESET>")
+}
+
+else if (parent.state == 2) {
+   document.write("<FRAMESET COLS='30%,70%'>" +
+      "<FRAME SRC='jsindex.htm' NAME='tocframe'>" +
+      "<FRAME SRC='", (location.search ? location.search.substring(1) + ".htm" : "intro.htm"), "' NAME='display'>" +
+   "</FRAMESET>")
+}
+
+</script>
+
+</HTML>

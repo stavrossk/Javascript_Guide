@@ -1,0 +1,25 @@
+<HTML>
+<HEAD>
+<TITLE>JavaScript Guide</TITLE>
+</HEAD>
+<script>
+state = 1
+// state 1 = contents showing in left frame
+// state 2 = index showing in left frame
+// state 3 = no left frame
+
+document.write('<FRAMESET ROWS="*,36">',
+                '   <FRAME SRC=navframe.htm' + location.search + ' NAME="upperframe">',
+                '   <FRAME SRC=navbar.htm NAME="navbar" SCROLLING="NO" MARGINWIDTH="0" MARGINHEIGHT="0">',
+                '</FRAMESET>')
+</script>
+
+<NOSCRIPT>
+<B>To read the JavaScript Guide, you must have Netscape Navigator 2.0 or later!
+<BR><A HREF="http://home.netscape.com/comprod/mirror/index.htm"></A>
+<P>
+If you are using Navigator 2.0 or later and you see this message, you need to enable JavaScript.
+Choose Options|Network Preferences, choose the Languages tab, and click Enable JavaScript.
+</NOSCRIPT>
+
+</HTML>

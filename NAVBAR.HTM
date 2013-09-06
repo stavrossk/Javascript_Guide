@@ -1,0 +1,31 @@
+<title>Button Bar</title>
+<BODY BGCOLOR="#FFFFFF">
+<form name="buttonbar">
+<center>
+<script>
+// state 1 = contents showing in left frame
+// state 2 = index showing in left frame
+// state 3 = no left frame
+if (parent.state == 1) {
+   document.write('<INPUT TYPE="button" NAME="hlf" VALUE="Hide Left Frame"' +
+      'onClick="parent.state=3; parent.frames[0].location=parent.frames[0].frames[1].location; history.go(0)">')
+   document.write('<INPUT TYPE="button" NAME="si" VALUE="Show Index"' +
+      'onClick="parent.state=2; parent.frames[0].frames[0].location=\'jsindex.htm\'; history.go(0)">')
+}
+
+else if (parent.state == 2) {
+   document.write('<INPUT TYPE="button" NAME="hlf" VALUE="Hide Left Frame"' +
+      'onClick="parent.state=3; parent.frames[0].location=parent.frames[0].frames[1].location; history.go(0)">')
+   document.write('<INPUT TYPE="button" NAME="sc" VALUE="Show Contents"' +
+      'onClick="parent.state=1; parent.frames[0].frames[0].location=\'contents.htm\'; history.go(0)">')
+}
+
+else if (parent.state == 3) {
+   document.write('<INPUT TYPE="button" NAME="sc" VALUE="Show Contents"' +
+      'onClick="parent.state=1; parent.frames[0].location=\'navframe.htm\'; history.go(0)">')
+   document.write('<INPUT TYPE="button" NAME="si" VALUE="Show Index"' +
+      'onClick="parent.state=2; parent.frames[0].location=\'navframe.htm\'; history.go(0)">')
+}
+</SCRIPT>
+</form>
+
