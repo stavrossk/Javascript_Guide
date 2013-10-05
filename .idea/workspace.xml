@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9d1e1915-fb30-41ea-a2bd-7492e09137d3" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/COOKIES.HTM" afterPath="$PROJECT_DIR$/COOKIES.HTM" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NAVBAR.HTM" afterPath="$PROJECT_DIR$/NAVBAR.HTM" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Colors~1.java" afterPath="$PROJECT_DIR$/Colors~1.java" />
     </list>
     <ignored path="Javascript_Guide.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -31,29 +29,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="GETSTART.HTM" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/GETSTART.HTM">
+      <file leaf-file-name="COLORS.HTM" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/COLORS.HTM">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="28" selection-start="183" selection-end="183" vertical-scroll-proportion="52.307693">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-4.1034484">
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="NAVBAR.HTM" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/NAVBAR.HTM">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="119" column="26" selection-start="3771" selection-end="3771" vertical-scroll-proportion="0.2859813">
-              <folding>
-                <element signature="tag#BODY#0" expanded="false" />
-                <element signature="tag#form#0;tag#BODY#0" expanded="false" />
-                <element signature="tag#center#0;tag#form#0;tag#BODY#0" expanded="false" />
-                <element signature="tag#script#0;tag#form#0;tag#BODY#0" expanded="false" />
-                <element signature="e#164#207#0" expanded="false" />
-                <element signature="e#364#1472#0" expanded="false" />
-                <element signature="e#1533#2622#0" expanded="false" />
-                <element signature="e#2683#3722#0" expanded="false" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -80,6 +60,7 @@
         <option value="$PROJECT_DIR$/INDEX~1.HTM" />
         <option value="$PROJECT_DIR$/COOKIES.HTM" />
         <option value="$PROJECT_DIR$/NAVBAR.HTM" />
+        <option value="$PROJECT_DIR$/Colors~1.java" />
       </list>
     </option>
   </component>
@@ -261,13 +242,6 @@
         <state line="224" column="4" selection-start="10561" selection-end="10561" vertical-scroll-proportion="0.9348659" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/GETSTART.HTM">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="28" selection-start="183" selection-end="183" vertical-scroll-proportion="52.307693">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/NAVBAR.HTM">
       <provider selected="true" editor-type-id="text-editor">
         <state line="119" column="26" selection-start="3771" selection-end="3771" vertical-scroll-proportion="0.2859813">
@@ -281,6 +255,27 @@
             <element signature="e#1533#2622#0" expanded="false" />
             <element signature="e#2683#3722#0" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GETSTART.HTM">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="107" column="53" selection-start="6370" selection-end="6370" vertical-scroll-proportion="-13.90613">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Colors~1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/COLORS.HTM">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-4.1034484">
+          <folding />
         </state>
       </provider>
     </entry>
