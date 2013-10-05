@@ -2,14 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9d1e1915-fb30-41ea-a2bd-7492e09137d3" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Colors~1.java" afterPath="$PROJECT_DIR$/Colors~1.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dictionaries/.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LIVEAUD.HTM" afterPath="$PROJECT_DIR$/LIVEAUD.HTM" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Javascript_Guide.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="9d1e1915-fb30-41ea-a2bd-7492e09137d3" time="1380956854055" ignored="false" />
+    <file path="/Dummy.txt" changelist="9d1e1915-fb30-41ea-a2bd-7492e09137d3" time="1380960636134" ignored="false" />
     <file path="/INTRO.HTM" changelist="9d1e1915-fb30-41ea-a2bd-7492e09137d3" time="1380953055047" ignored="false" />
     <file path="/INDEX~1.HTM" changelist="9d1e1915-fb30-41ea-a2bd-7492e09137d3" time="1380956527253" ignored="false" />
     <file path="/NAVBAR.HTM" changelist="9d1e1915-fb30-41ea-a2bd-7492e09137d3" time="1380957690171" ignored="false" />
+    <file path="/LIVEAUD.HTM" changelist="9d1e1915-fb30-41ea-a2bd-7492e09137d3" time="1380958931073" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,11 +32,59 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="COLORS.HTM" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/COLORS.HTM">
+      <file leaf-file-name="LIVEAUD.HTM" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/LIVEAUD.HTM">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-4.1034484">
-              <folding />
+            <state line="579" column="43" selection-start="8900" selection-end="8900" vertical-scroll-proportion="3.082243">
+              <folding>
+                <element signature="tag#A#0;tag#BODY#0" expanded="false" />
+                <element signature="tag#A#1;tag#BODY#0" expanded="false" />
+                <element signature="tag#A#2;tag#BODY#0" expanded="false" />
+                <element signature="tag#A#3;tag#BODY#0" expanded="false" />
+                <element signature="tag#A#4;tag#BODY#0" expanded="false" />
+                <element signature="tag#ul#0;tag#BODY#0" expanded="false" />
+                <element signature="tag#A#0;tag#ul#0;tag#BODY#0" expanded="false" />
+                <element signature="tag#a#0;tag#ul#0;tag#BODY#0" expanded="false" />
+                <element signature="tag#A#1;tag#ul#0;tag#BODY#0" expanded="false" />
+                <element signature="tag#A#2;tag#ul#0;tag#BODY#0" expanded="false" />
+                <element signature="tag#A#5;tag#BODY#0" expanded="false" />
+                <element signature="tag#A#6;tag#BODY#0" expanded="false" />
+                <element signature="tag#A#7;tag#BODY#0" expanded="false" />
+                <element signature="tag#H1#0;tag#A#7;tag#BODY#0" expanded="false" />
+                <element signature="tag#A#8;tag#BODY#0" expanded="false" />
+                <element signature="tag#ul#1;tag#BODY#0" expanded="false" />
+                <element signature="tag#A#0;tag#ul#1;tag#BODY#0" expanded="false" />
+                <element signature="tag#LI#0;tag#A#0;tag#ul#1;tag#BODY#0" expanded="false" />
+                <element signature="tag#A#1;tag#ul#1;tag#BODY#0" expanded="false" />
+                <element signature="tag#A#2;tag#ul#1;tag#BODY#0" expanded="false" />
+                <element signature="tag#A#3;tag#ul#1;tag#BODY#0" expanded="false" />
+                <element signature="tag#A#4;tag#ul#1;tag#BODY#0" expanded="false" />
+                <element signature="tag#A#5;tag#ul#1;tag#BODY#0" expanded="false" />
+                <element signature="tag#A#6;tag#ul#1;tag#BODY#0" expanded="false" />
+                <element signature="tag#A#7;tag#ul#1;tag#BODY#0" expanded="false" />
+                <element signature="tag#A#8;tag#ul#1;tag#BODY#0" expanded="false" />
+                <element signature="tag#A#9;tag#ul#1;tag#BODY#0" expanded="false" />
+                <element signature="tag#A#10;tag#ul#1;tag#BODY#0" expanded="false" />
+                <element signature="tag#A#9;tag#BODY#0" expanded="false" />
+                <element signature="tag#ul#2;tag#BODY#0" expanded="false" />
+                <element signature="tag#A#10;tag#BODY#0" expanded="false" />
+                <element signature="tag#A#11;tag#BODY#0" expanded="false" />
+                <element signature="tag#A#12;tag#BODY#0" expanded="false" />
+                <element signature="tag#A#13;tag#BODY#0" expanded="false" />
+                <element signature="tag#PRE#0;tag#A#13;tag#BODY#0" expanded="false" />
+                <element signature="tag#A#14;tag#BODY#0" expanded="false" />
+                <element signature="tag#A#15;tag#BODY#0" expanded="false" />
+                <element signature="tag#PRE#0;tag#A#15;tag#BODY#0" expanded="false" />
+                <element signature="tag#A#16;tag#BODY#0" expanded="false" />
+                <element signature="tag#A#17;tag#BODY#0" expanded="false" />
+                <element signature="tag#A#18;tag#BODY#0" expanded="false" />
+                <element signature="tag#PRE#0;tag#A#18;tag#BODY#0" expanded="false" />
+                <element signature="tag#A#19;tag#BODY#0" expanded="false" />
+                <element signature="tag#A#20;tag#BODY#0" expanded="false" />
+                <element signature="tag#A#21;tag#BODY#0" expanded="false" />
+                <element signature="tag#PRE#0;tag#A#21;tag#BODY#0" expanded="false" />
+                <element signature="tag#A#22;tag#BODY#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -61,6 +112,7 @@
         <option value="$PROJECT_DIR$/COOKIES.HTM" />
         <option value="$PROJECT_DIR$/NAVBAR.HTM" />
         <option value="$PROJECT_DIR$/Colors~1.java" />
+        <option value="$PROJECT_DIR$/LIVEAUD.HTM" />
       </list>
     </option>
   </component>
@@ -84,7 +136,7 @@
     <option name="STATE" value="0" />
   </component>
   <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+    <navigator proportions="" version="1" splitterProportion="0.5">
       <flattenPackages />
       <showMembers />
       <showModules />
@@ -95,37 +147,15 @@
       <autoscrollFromSource />
       <sortByType />
     </navigator>
-    <panes>
-      <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Javascript_Guide" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Javascript_Guide" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Javascript_Guide" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
-    </panes>
+    <panes />
   </component>
   <component name="PropertiesComponent">
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
     <property name="FullScreen" value="false" />
-    <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
   </component>
   <component name="RunManager">
     <list size="0" />
@@ -145,10 +175,10 @@
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24975026" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24975026" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32967034" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -222,6 +252,61 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/LIVEAUD.HTM">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="852" column="12" selection-start="13795" selection-end="13795" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="tag#A#0;tag#BODY#0" expanded="false" />
+            <element signature="tag#A#1;tag#BODY#0" expanded="false" />
+            <element signature="tag#A#2;tag#BODY#0" expanded="false" />
+            <element signature="tag#A#3;tag#BODY#0" expanded="false" />
+            <element signature="tag#A#4;tag#BODY#0" expanded="false" />
+            <element signature="tag#ul#0;tag#BODY#0" expanded="false" />
+            <element signature="tag#A#0;tag#ul#0;tag#BODY#0" expanded="false" />
+            <element signature="tag#a#0;tag#ul#0;tag#BODY#0" expanded="false" />
+            <element signature="tag#A#1;tag#ul#0;tag#BODY#0" expanded="false" />
+            <element signature="tag#A#2;tag#ul#0;tag#BODY#0" expanded="false" />
+            <element signature="tag#A#5;tag#BODY#0" expanded="false" />
+            <element signature="tag#A#6;tag#BODY#0" expanded="false" />
+            <element signature="tag#A#7;tag#BODY#0" expanded="false" />
+            <element signature="tag#H1#0;tag#A#7;tag#BODY#0" expanded="false" />
+            <element signature="tag#A#8;tag#BODY#0" expanded="false" />
+            <element signature="tag#ul#1;tag#BODY#0" expanded="false" />
+            <element signature="tag#A#0;tag#ul#1;tag#BODY#0" expanded="false" />
+            <element signature="tag#LI#0;tag#A#0;tag#ul#1;tag#BODY#0" expanded="false" />
+            <element signature="tag#A#1;tag#ul#1;tag#BODY#0" expanded="false" />
+            <element signature="tag#A#2;tag#ul#1;tag#BODY#0" expanded="false" />
+            <element signature="tag#A#3;tag#ul#1;tag#BODY#0" expanded="false" />
+            <element signature="tag#A#4;tag#ul#1;tag#BODY#0" expanded="false" />
+            <element signature="tag#A#5;tag#ul#1;tag#BODY#0" expanded="false" />
+            <element signature="tag#A#6;tag#ul#1;tag#BODY#0" expanded="false" />
+            <element signature="tag#A#7;tag#ul#1;tag#BODY#0" expanded="false" />
+            <element signature="tag#A#8;tag#ul#1;tag#BODY#0" expanded="false" />
+            <element signature="tag#A#9;tag#ul#1;tag#BODY#0" expanded="false" />
+            <element signature="tag#A#10;tag#ul#1;tag#BODY#0" expanded="false" />
+            <element signature="tag#A#9;tag#BODY#0" expanded="false" />
+            <element signature="tag#ul#2;tag#BODY#0" expanded="false" />
+            <element signature="tag#A#10;tag#BODY#0" expanded="false" />
+            <element signature="tag#A#11;tag#BODY#0" expanded="false" />
+            <element signature="tag#A#12;tag#BODY#0" expanded="false" />
+            <element signature="tag#A#13;tag#BODY#0" expanded="false" />
+            <element signature="tag#PRE#0;tag#A#13;tag#BODY#0" expanded="false" />
+            <element signature="tag#A#14;tag#BODY#0" expanded="false" />
+            <element signature="tag#A#15;tag#BODY#0" expanded="false" />
+            <element signature="tag#PRE#0;tag#A#15;tag#BODY#0" expanded="false" />
+            <element signature="tag#A#16;tag#BODY#0" expanded="false" />
+            <element signature="tag#A#17;tag#BODY#0" expanded="false" />
+            <element signature="tag#A#18;tag#BODY#0" expanded="false" />
+            <element signature="tag#PRE#0;tag#A#18;tag#BODY#0" expanded="false" />
+            <element signature="tag#A#19;tag#BODY#0" expanded="false" />
+            <element signature="tag#A#20;tag#BODY#0" expanded="false" />
+            <element signature="tag#A#21;tag#BODY#0" expanded="false" />
+            <element signature="tag#PRE#0;tag#A#21;tag#BODY#0" expanded="false" />
+            <element signature="tag#A#22;tag#BODY#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/INTRO.HTM">
       <provider selected="true" editor-type-id="text-editor">
         <state line="326" column="7" selection-start="6141" selection-end="6141" vertical-scroll-proportion="0.0" />
@@ -244,38 +329,86 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/NAVBAR.HTM">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="119" column="26" selection-start="3771" selection-end="3771" vertical-scroll-proportion="0.2859813">
-          <folding>
-            <element signature="tag#BODY#0" expanded="false" />
-            <element signature="tag#form#0;tag#BODY#0" expanded="false" />
-            <element signature="tag#center#0;tag#form#0;tag#BODY#0" expanded="false" />
-            <element signature="tag#script#0;tag#form#0;tag#BODY#0" expanded="false" />
-            <element signature="e#164#207#0" expanded="false" />
-            <element signature="e#364#1472#0" expanded="false" />
-            <element signature="e#1533#2622#0" expanded="false" />
-            <element signature="e#2683#3722#0" expanded="false" />
-          </folding>
-        </state>
+        <state line="119" column="26" selection-start="3771" selection-end="3771" vertical-scroll-proportion="0.2859813" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/GETSTART.HTM">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="107" column="53" selection-start="6370" selection-end="6370" vertical-scroll-proportion="-13.90613">
-          <folding />
-        </state>
+        <state line="107" column="53" selection-start="6370" selection-end="6370" vertical-scroll-proportion="-13.90613" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Colors~1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/COLORS.HTM">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-4.1034484">
-          <folding />
+        <state line="130" column="77" selection-start="2226" selection-end="2226" vertical-scroll-proportion="0.03256705" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Colors~1.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="34" selection-start="140" selection-end="140" vertical-scroll-proportion="0.49635038" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WINDOWS.HTM">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="192" column="48" selection-start="9034" selection-end="9034" vertical-scroll-proportion="-2.3869731" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LIVEAUD.HTM">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="579" column="43" selection-start="8900" selection-end="8900" vertical-scroll-proportion="3.082243">
+          <folding>
+            <element signature="tag#A#0;tag#BODY#0" expanded="false" />
+            <element signature="tag#A#1;tag#BODY#0" expanded="false" />
+            <element signature="tag#A#2;tag#BODY#0" expanded="false" />
+            <element signature="tag#A#3;tag#BODY#0" expanded="false" />
+            <element signature="tag#A#4;tag#BODY#0" expanded="false" />
+            <element signature="tag#ul#0;tag#BODY#0" expanded="false" />
+            <element signature="tag#A#0;tag#ul#0;tag#BODY#0" expanded="false" />
+            <element signature="tag#a#0;tag#ul#0;tag#BODY#0" expanded="false" />
+            <element signature="tag#A#1;tag#ul#0;tag#BODY#0" expanded="false" />
+            <element signature="tag#A#2;tag#ul#0;tag#BODY#0" expanded="false" />
+            <element signature="tag#A#5;tag#BODY#0" expanded="false" />
+            <element signature="tag#A#6;tag#BODY#0" expanded="false" />
+            <element signature="tag#A#7;tag#BODY#0" expanded="false" />
+            <element signature="tag#H1#0;tag#A#7;tag#BODY#0" expanded="false" />
+            <element signature="tag#A#8;tag#BODY#0" expanded="false" />
+            <element signature="tag#ul#1;tag#BODY#0" expanded="false" />
+            <element signature="tag#A#0;tag#ul#1;tag#BODY#0" expanded="false" />
+            <element signature="tag#LI#0;tag#A#0;tag#ul#1;tag#BODY#0" expanded="false" />
+            <element signature="tag#A#1;tag#ul#1;tag#BODY#0" expanded="false" />
+            <element signature="tag#A#2;tag#ul#1;tag#BODY#0" expanded="false" />
+            <element signature="tag#A#3;tag#ul#1;tag#BODY#0" expanded="false" />
+            <element signature="tag#A#4;tag#ul#1;tag#BODY#0" expanded="false" />
+            <element signature="tag#A#5;tag#ul#1;tag#BODY#0" expanded="false" />
+            <element signature="tag#A#6;tag#ul#1;tag#BODY#0" expanded="false" />
+            <element signature="tag#A#7;tag#ul#1;tag#BODY#0" expanded="false" />
+            <element signature="tag#A#8;tag#ul#1;tag#BODY#0" expanded="false" />
+            <element signature="tag#A#9;tag#ul#1;tag#BODY#0" expanded="false" />
+            <element signature="tag#A#10;tag#ul#1;tag#BODY#0" expanded="false" />
+            <element signature="tag#A#9;tag#BODY#0" expanded="false" />
+            <element signature="tag#ul#2;tag#BODY#0" expanded="false" />
+            <element signature="tag#A#10;tag#BODY#0" expanded="false" />
+            <element signature="tag#A#11;tag#BODY#0" expanded="false" />
+            <element signature="tag#A#12;tag#BODY#0" expanded="false" />
+            <element signature="tag#A#13;tag#BODY#0" expanded="false" />
+            <element signature="tag#PRE#0;tag#A#13;tag#BODY#0" expanded="false" />
+            <element signature="tag#A#14;tag#BODY#0" expanded="false" />
+            <element signature="tag#A#15;tag#BODY#0" expanded="false" />
+            <element signature="tag#PRE#0;tag#A#15;tag#BODY#0" expanded="false" />
+            <element signature="tag#A#16;tag#BODY#0" expanded="false" />
+            <element signature="tag#A#17;tag#BODY#0" expanded="false" />
+            <element signature="tag#A#18;tag#BODY#0" expanded="false" />
+            <element signature="tag#PRE#0;tag#A#18;tag#BODY#0" expanded="false" />
+            <element signature="tag#A#19;tag#BODY#0" expanded="false" />
+            <element signature="tag#A#20;tag#BODY#0" expanded="false" />
+            <element signature="tag#A#21;tag#BODY#0" expanded="false" />
+            <element signature="tag#PRE#0;tag#A#21;tag#BODY#0" expanded="false" />
+            <element signature="tag#A#22;tag#BODY#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
