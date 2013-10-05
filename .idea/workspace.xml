@@ -2,14 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9d1e1915-fb30-41ea-a2bd-7492e09137d3" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/INDEX~1.HTM" afterPath="$PROJECT_DIR$/INDEX~1.HTM" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/COOKIES.HTM" afterPath="$PROJECT_DIR$/COOKIES.HTM" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NAVBAR.HTM" afterPath="$PROJECT_DIR$/NAVBAR.HTM" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Javascript_Guide.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="9d1e1915-fb30-41ea-a2bd-7492e09137d3" time="1380954944756" ignored="false" />
+    <file path="/Dummy.txt" changelist="9d1e1915-fb30-41ea-a2bd-7492e09137d3" time="1380956854055" ignored="false" />
     <file path="/INTRO.HTM" changelist="9d1e1915-fb30-41ea-a2bd-7492e09137d3" time="1380953055047" ignored="false" />
     <file path="/INDEX~1.HTM" changelist="9d1e1915-fb30-41ea-a2bd-7492e09137d3" time="1380956527253" ignored="false" />
+    <file path="/NAVBAR.HTM" changelist="9d1e1915-fb30-41ea-a2bd-7492e09137d3" time="1380957690171" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,11 +31,29 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="COOKIES.HTM" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/COOKIES.HTM">
+      <file leaf-file-name="GETSTART.HTM" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/GETSTART.HTM">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-5.862069">
+            <state line="13" column="28" selection-start="183" selection-end="183" vertical-scroll-proportion="52.307693">
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="NAVBAR.HTM" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/NAVBAR.HTM">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="119" column="26" selection-start="3771" selection-end="3771" vertical-scroll-proportion="0.2859813">
+              <folding>
+                <element signature="tag#BODY#0" expanded="false" />
+                <element signature="tag#form#0;tag#BODY#0" expanded="false" />
+                <element signature="tag#center#0;tag#form#0;tag#BODY#0" expanded="false" />
+                <element signature="tag#script#0;tag#form#0;tag#BODY#0" expanded="false" />
+                <element signature="e#164#207#0" expanded="false" />
+                <element signature="e#364#1472#0" expanded="false" />
+                <element signature="e#1533#2622#0" expanded="false" />
+                <element signature="e#2683#3722#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -58,6 +78,8 @@
       <list>
         <option value="$PROJECT_DIR$/INTRO.HTM" />
         <option value="$PROJECT_DIR$/INDEX~1.HTM" />
+        <option value="$PROJECT_DIR$/COOKIES.HTM" />
+        <option value="$PROJECT_DIR$/NAVBAR.HTM" />
       </list>
     </option>
   </component>
@@ -121,8 +143,8 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
     <property name="FullScreen" value="false" />
-    <property name="options.searchVisible" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
   </component>
   <component name="RunManager">
     <list size="0" />
@@ -221,139 +243,44 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/INTRO.HTM">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="326" column="7" selection-start="6141" selection-end="6141" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="tag#A#0;tag#BODY#0" expanded="false" />
-            <element signature="tag#H1#0;tag#A#0;tag#BODY#0" expanded="false" />
-            <element signature="tag#A#1;tag#BODY#0" expanded="false" />
-            <element signature="tag#I#0;tag#A#1;tag#BODY#0" expanded="false" />
-            <element signature="tag#A#2;tag#BODY#0" expanded="false" />
-            <element signature="tag#A#3;tag#BODY#0" expanded="false" />
-            <element signature="tag#H1#0;tag#A#3;tag#BODY#0" expanded="false" />
-            <element signature="tag#A#4;tag#BODY#0" expanded="false" />
-            <element signature="tag#a#0;tag#A#4;tag#BODY#0" expanded="false" />
-            <element signature="tag#A#5;tag#BODY#0" expanded="false" />
-            <element signature="tag#A#6;tag#BODY#0" expanded="false" />
-            <element signature="tag#H1#0;tag#A#6;tag#BODY#0" expanded="false" />
-            <element signature="tag#A#7;tag#BODY#0" expanded="false" />
-            <element signature="tag#ul#0;tag#BODY#0" expanded="false" />
-            <element signature="tag#A#0;tag#ul#0;tag#BODY#0" expanded="false" />
-            <element signature="tag#LI#0;tag#A#0;tag#ul#0;tag#BODY#0" expanded="false" />
-            <element signature="tag#A#1;tag#ul#0;tag#BODY#0" expanded="false" />
-            <element signature="tag#A#8;tag#BODY#0" expanded="false" />
-            <element signature="tag#A#9;tag#BODY#0" expanded="false" />
-            <element signature="tag#A#10;tag#BODY#0" expanded="false" />
-            <element signature="tag#H1#0;tag#A#10;tag#BODY#0" expanded="false" />
-            <element signature="tag#A#11;tag#BODY#0" expanded="false" />
-            <element signature="tag#ul#1;tag#BODY#0" expanded="false" />
-            <element signature="tag#A#0;tag#ul#1;tag#BODY#0" expanded="false" />
-            <element signature="tag#A#1;tag#ul#1;tag#BODY#0" expanded="false" />
-            <element signature="tag#A#2;tag#ul#1;tag#BODY#0" expanded="false" />
-            <element signature="tag#A#12;tag#BODY#0" expanded="false" />
-            <element signature="tag#a#0;tag#A#12;tag#BODY#0" expanded="false" />
-            <element signature="tag#a#1;tag#A#12;tag#BODY#0" expanded="false" />
-            <element signature="tag#A#13;tag#BODY#0" expanded="false" />
-            <element signature="tag#a#0;tag#A#13;tag#BODY#0" expanded="false" />
-            <element signature="tag#a#1;tag#A#13;tag#BODY#0" expanded="false" />
-            <element signature="tag#A#14;tag#BODY#0" expanded="false" />
-            <element signature="tag#A#15;tag#BODY#0" expanded="false" />
-            <element signature="tag#A#16;tag#BODY#0" expanded="false" />
-            <element signature="tag#A#17;tag#BODY#0" expanded="false" />
-            <element signature="tag#A#18;tag#BODY#0" expanded="false" />
-            <element signature="tag#A#19;tag#BODY#0" expanded="false" />
-            <element signature="tag#A#20;tag#BODY#0" expanded="false" />
-            <element signature="tag#PRE#0;tag#A#20;tag#BODY#0" expanded="false" />
-            <element signature="tag#A#21;tag#BODY#0" expanded="false" />
-            <element signature="tag#A#22;tag#BODY#0" expanded="false" />
-            <element signature="tag#ul#2;tag#BODY#0" expanded="false" />
-            <element signature="tag#A#0;tag#ul#2;tag#BODY#0" expanded="false" />
-            <element signature="tag#A#1;tag#ul#2;tag#BODY#0" expanded="false" />
-            <element signature="tag#LI#0;tag#A#2;tag#ul#2;tag#BODY#0" expanded="false" />
-          </folding>
-        </state>
+        <state line="326" column="7" selection-start="6141" selection-end="6141" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/INTRO.HTM">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="347" column="70" selection-start="6381" selection-end="6381" vertical-scroll-proportion="2.2504673">
-          <folding>
-            <element signature="tag#A#0;tag#BODY#0" expanded="false" />
-            <element signature="tag#H1#0;tag#A#0;tag#BODY#0" expanded="false" />
-            <element signature="tag#A#1;tag#BODY#0" expanded="false" />
-            <element signature="tag#I#0;tag#A#1;tag#BODY#0" expanded="false" />
-            <element signature="tag#A#2;tag#BODY#0" expanded="false" />
-            <element signature="tag#A#3;tag#BODY#0" expanded="false" />
-            <element signature="tag#H1#0;tag#A#3;tag#BODY#0" expanded="false" />
-            <element signature="tag#A#4;tag#BODY#0" expanded="false" />
-            <element signature="tag#a#0;tag#A#4;tag#BODY#0" expanded="false" />
-            <element signature="tag#A#5;tag#BODY#0" expanded="false" />
-            <element signature="tag#A#6;tag#BODY#0" expanded="false" />
-            <element signature="tag#H1#0;tag#A#6;tag#BODY#0" expanded="false" />
-            <element signature="tag#A#7;tag#BODY#0" expanded="false" />
-            <element signature="tag#ul#0;tag#BODY#0" expanded="false" />
-            <element signature="tag#A#0;tag#ul#0;tag#BODY#0" expanded="false" />
-            <element signature="tag#LI#0;tag#A#0;tag#ul#0;tag#BODY#0" expanded="false" />
-            <element signature="tag#A#1;tag#ul#0;tag#BODY#0" expanded="false" />
-            <element signature="tag#A#8;tag#BODY#0" expanded="false" />
-            <element signature="tag#A#9;tag#BODY#0" expanded="false" />
-            <element signature="tag#A#10;tag#BODY#0" expanded="false" />
-            <element signature="tag#H1#0;tag#A#10;tag#BODY#0" expanded="false" />
-            <element signature="tag#A#11;tag#BODY#0" expanded="false" />
-            <element signature="tag#ul#1;tag#BODY#0" expanded="false" />
-            <element signature="tag#A#0;tag#ul#1;tag#BODY#0" expanded="false" />
-            <element signature="tag#A#1;tag#ul#1;tag#BODY#0" expanded="false" />
-            <element signature="tag#A#2;tag#ul#1;tag#BODY#0" expanded="false" />
-            <element signature="tag#A#12;tag#BODY#0" expanded="false" />
-            <element signature="tag#a#0;tag#A#12;tag#BODY#0" expanded="false" />
-            <element signature="tag#a#1;tag#A#12;tag#BODY#0" expanded="false" />
-            <element signature="tag#A#13;tag#BODY#0" expanded="false" />
-            <element signature="tag#a#0;tag#A#13;tag#BODY#0" expanded="false" />
-            <element signature="tag#a#1;tag#A#13;tag#BODY#0" expanded="false" />
-            <element signature="tag#A#14;tag#BODY#0" expanded="false" />
-            <element signature="tag#A#15;tag#BODY#0" expanded="false" />
-            <element signature="tag#A#16;tag#BODY#0" expanded="false" />
-            <element signature="tag#A#17;tag#BODY#0" expanded="false" />
-            <element signature="tag#A#18;tag#BODY#0" expanded="false" />
-            <element signature="tag#A#19;tag#BODY#0" expanded="false" />
-            <element signature="tag#A#20;tag#BODY#0" expanded="false" />
-            <element signature="tag#PRE#0;tag#A#20;tag#BODY#0" expanded="false" />
-            <element signature="tag#A#21;tag#BODY#0" expanded="false" />
-            <element signature="tag#A#22;tag#BODY#0" expanded="false" />
-            <element signature="tag#ul#2;tag#BODY#0" expanded="false" />
-            <element signature="tag#A#0;tag#ul#2;tag#BODY#0" expanded="false" />
-            <element signature="tag#A#1;tag#ul#2;tag#BODY#0" expanded="false" />
-            <element signature="tag#LI#0;tag#A#2;tag#ul#2;tag#BODY#0" expanded="false" />
-          </folding>
-        </state>
+        <state line="347" column="70" selection-start="6381" selection-end="6381" vertical-scroll-proportion="2.2504673" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/INDEX~1.HTM">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="68" column="17" selection-start="1178" selection-end="1178" vertical-scroll-proportion="0.4448598">
-          <folding>
-            <element signature="tag#HEAD#0;tag#HTML#0" expanded="false" />
-            <element signature="tag#TITLE#0;tag#HEAD#0;tag#HTML#0" expanded="false" />
-            <element signature="tag#script#0;tag#HTML#0" expanded="false" />
-            <element signature="e#141#184#0" expanded="false" />
-            <element signature="tag#NOSCRIPT#0;tag#HTML#0" expanded="false" />
-            <element signature="tag#b#0;tag#NOSCRIPT#0;tag#HTML#0" expanded="false" />
-            <element signature="tag#A#0;tag#NOSCRIPT#0;tag#HTML#0" expanded="false" />
-            <element signature="tag#p#0;tag#NOSCRIPT#0;tag#HTML#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GETSTART.HTM">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="28" selection-start="183" selection-end="183" vertical-scroll-proportion="-7.881226">
-          <folding />
-        </state>
+        <state line="68" column="17" selection-start="1178" selection-end="1178" vertical-scroll-proportion="0.4448598" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/COOKIES.HTM">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-5.862069">
+        <state line="224" column="4" selection-start="10561" selection-end="10561" vertical-scroll-proportion="0.9348659" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GETSTART.HTM">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="28" selection-start="183" selection-end="183" vertical-scroll-proportion="52.307693">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NAVBAR.HTM">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="119" column="26" selection-start="3771" selection-end="3771" vertical-scroll-proportion="0.2859813">
+          <folding>
+            <element signature="tag#BODY#0" expanded="false" />
+            <element signature="tag#form#0;tag#BODY#0" expanded="false" />
+            <element signature="tag#center#0;tag#form#0;tag#BODY#0" expanded="false" />
+            <element signature="tag#script#0;tag#form#0;tag#BODY#0" expanded="false" />
+            <element signature="e#164#207#0" expanded="false" />
+            <element signature="e#364#1472#0" expanded="false" />
+            <element signature="e#1533#2622#0" expanded="false" />
+            <element signature="e#2683#3722#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
