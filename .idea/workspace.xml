@@ -30,7 +30,7 @@
       <file leaf-file-name="INTRO.HTM" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/INTRO.HTM">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="320" column="4" selection-start="6120" selection-end="6120" vertical-scroll-proportion="0.5114943">
+            <state line="326" column="7" selection-start="6141" selection-end="6141" vertical-scroll-proportion="0.30093458">
               <folding>
                 <element signature="tag#A#0;tag#BODY#0" expanded="false" />
                 <element signature="tag#H1#0;tag#A#0;tag#BODY#0" expanded="false" />
@@ -64,6 +64,20 @@
                 <element signature="tag#A#13;tag#BODY#0" expanded="false" />
                 <element signature="tag#a#0;tag#A#13;tag#BODY#0" expanded="false" />
                 <element signature="tag#a#1;tag#A#13;tag#BODY#0" expanded="false" />
+                <element signature="tag#A#14;tag#BODY#0" expanded="false" />
+                <element signature="tag#A#15;tag#BODY#0" expanded="false" />
+                <element signature="tag#A#16;tag#BODY#0" expanded="false" />
+                <element signature="tag#A#17;tag#BODY#0" expanded="false" />
+                <element signature="tag#A#18;tag#BODY#0" expanded="false" />
+                <element signature="tag#A#19;tag#BODY#0" expanded="false" />
+                <element signature="tag#A#20;tag#BODY#0" expanded="false" />
+                <element signature="tag#PRE#0;tag#A#20;tag#BODY#0" expanded="false" />
+                <element signature="tag#A#21;tag#BODY#0" expanded="false" />
+                <element signature="tag#A#22;tag#BODY#0" expanded="false" />
+                <element signature="tag#ul#2;tag#BODY#0" expanded="false" />
+                <element signature="tag#A#0;tag#ul#2;tag#BODY#0" expanded="false" />
+                <element signature="tag#A#1;tag#ul#2;tag#BODY#0" expanded="false" />
+                <element signature="tag#LI#0;tag#A#2;tag#ul#2;tag#BODY#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -166,7 +180,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1040" height="744" extended-state="7" />
+    <frame x="-8" y="-8" width="1040" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -250,7 +264,7 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/INTRO.HTM">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="320" column="4" selection-start="6120" selection-end="6120" vertical-scroll-proportion="0.5114943">
+        <state line="326" column="7" selection-start="6141" selection-end="6141" vertical-scroll-proportion="0.30093458">
           <folding>
             <element signature="tag#A#0;tag#BODY#0" expanded="false" />
             <element signature="tag#H1#0;tag#A#0;tag#BODY#0" expanded="false" />
@@ -284,6 +298,20 @@
             <element signature="tag#A#13;tag#BODY#0" expanded="false" />
             <element signature="tag#a#0;tag#A#13;tag#BODY#0" expanded="false" />
             <element signature="tag#a#1;tag#A#13;tag#BODY#0" expanded="false" />
+            <element signature="tag#A#14;tag#BODY#0" expanded="false" />
+            <element signature="tag#A#15;tag#BODY#0" expanded="false" />
+            <element signature="tag#A#16;tag#BODY#0" expanded="false" />
+            <element signature="tag#A#17;tag#BODY#0" expanded="false" />
+            <element signature="tag#A#18;tag#BODY#0" expanded="false" />
+            <element signature="tag#A#19;tag#BODY#0" expanded="false" />
+            <element signature="tag#A#20;tag#BODY#0" expanded="false" />
+            <element signature="tag#PRE#0;tag#A#20;tag#BODY#0" expanded="false" />
+            <element signature="tag#A#21;tag#BODY#0" expanded="false" />
+            <element signature="tag#A#22;tag#BODY#0" expanded="false" />
+            <element signature="tag#ul#2;tag#BODY#0" expanded="false" />
+            <element signature="tag#A#0;tag#ul#2;tag#BODY#0" expanded="false" />
+            <element signature="tag#A#1;tag#ul#2;tag#BODY#0" expanded="false" />
+            <element signature="tag#LI#0;tag#A#2;tag#ul#2;tag#BODY#0" expanded="false" />
           </folding>
         </state>
       </provider>
